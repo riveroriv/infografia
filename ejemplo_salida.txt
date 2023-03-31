@@ -1,0 +1,137 @@
+# EJEMPLO SALIDA 1
+
+Hola, mi nombre es Juan
+
+Puedo atacar
+Puedo volar
+Puedo esquivar
+
+
+Enemigo Raul atacando a jugador Juan con daño: 9
+	vitalidad Juan: 91
+	vitalidad enemigo Raul: 50
+
+Enemigo Raul atacando a jugador Juan con daño: 7
+	vitalidad Juan: 84
+	vitalidad enemigo Raul: 50
+
+Enemigo Raul atacando a jugador Juan con daño: 7
+	vitalidad Juan: 77
+	vitalidad enemigo Raul: 50
+
+Enemigo Raul atacando a jugador Juan con daño: 18
+	vitalidad Juan: 59
+	vitalidad enemigo Raul: 50
+
+Enemigo Raul atacando a jugador Juan con daño: 8
+Jugador Juan realiza contraataque con daño: 5
+	vitalidad Juan: 51
+	vitalidad enemigo Raul: 45
+
+Enemigo Raul atacando a jugador Juan con daño: 2
+Jugador Juan realiza contraataque con daño: 4
+	vitalidad Juan: 49
+	vitalidad enemigo Raul: 41
+
+Enemigo Raul atacando a jugador Juan con daño: 2
+Jugador Juan realiza contraataque con daño: 6
+	vitalidad Juan: 47
+	vitalidad enemigo Raul: 35
+
+Enemigo Raul atacando a jugador Juan con daño: 1
+	vitalidad Juan: 46
+	vitalidad enemigo Raul: 35
+
+Enemigo Raul atacando a jugador Juan con daño: 12
+	vitalidad Juan: 34
+	vitalidad enemigo Raul: 35
+
+Enemigo Raul atacando a jugador Juan con daño: 4
+Jugador Juan realiza contraataque con daño: 3
+	vitalidad Juan: 30
+	vitalidad enemigo Raul: 32
+
+Enemigo Raul atacando a jugador Juan con daño: 17
+Jugador Juan realiza contraataque con daño: 1
+	vitalidad Juan: 13
+	vitalidad enemigo Raul: 31
+
+Enemigo Raul atacando a jugador Juan con daño: 6
+Jugador Juan realiza contraataque con daño: 0
+	vitalidad Juan: 7
+	vitalidad enemigo Raul: 31
+
+Enemigo Raul atacando a jugador Juan con daño: 19
+El jugador Juan ha muerto
+
+
+
+# EJEMPLO SALIDA 2
+
+Hola, mi nombre es Juan
+
+Puedo atacar
+Puedo volar
+Puedo esquivar
+
+
+Enemigo Raul atacando a jugador Juan con daño: 1
+Jugador Juan realiza contraataque con daño: 9
+	vitalidad Juan: 99
+	vitalidad enemigo Raul: 41
+
+Enemigo Raul atacando a jugador Juan con daño: 17
+Jugador Juan realiza contraataque con daño: 12
+	vitalidad Juan: 82
+	vitalidad enemigo Raul: 29
+
+Enemigo Raul atacando a jugador Juan con daño: 6
+Jugador Juan realiza contraataque con daño: 7
+	vitalidad Juan: 76
+	vitalidad enemigo Raul: 22
+
+Enemigo Raul atacando a jugador Juan con daño: 3
+	vitalidad Juan: 73
+	vitalidad enemigo Raul: 22
+
+Enemigo Raul atacando a jugador Juan con daño: 18
+Jugador Juan realiza contraataque con daño: 7
+	vitalidad Juan: 55
+	vitalidad enemigo Raul: 15
+
+Enemigo Raul atacando a jugador Juan con daño: 9
+Jugador Juan realiza contraataque con daño: 4
+	vitalidad Juan: 46
+	vitalidad enemigo Raul: 11
+
+Enemigo Raul atacando a jugador Juan con daño: 8
+Jugador Juan realiza contraataque con daño: 3
+	vitalidad Juan: 38
+	vitalidad enemigo Raul: 8
+
+Enemigo Raul atacando a jugador Juan con daño: 1
+Jugador Juan realiza contraataque con daño: 3
+	vitalidad Juan: 37
+	vitalidad enemigo Raul: 5
+
+Enemigo Raul atacando a jugador Juan con daño: 8
+	vitalidad Juan: 29
+	vitalidad enemigo Raul: 5
+
+Enemigo Raul atacando a jugador Juan con daño: 2
+Jugador Juan realiza contraataque con daño: 2
+	vitalidad Juan: 27
+	vitalidad enemigo Raul: 3
+
+Enemigo Raul atacando a jugador Juan con daño: 0
+Jugador Juan realiza contraataque con daño: 2
+	vitalidad Juan: 27
+	vitalidad enemigo Raul: 1
+
+Enemigo Raul atacando a jugador Juan con daño: 0
+	vitalidad Juan: 27
+	vitalidad enemigo Raul: 1
+
+Enemigo Raul atacando a jugador Juan con daño: 8
+Jugador Juan realiza contraataque con daño: 1
+El enemigo Raul ha muerto
