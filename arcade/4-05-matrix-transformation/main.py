@@ -28,6 +28,8 @@ class TransformWindow(arcade.Window):
         if symbol == arcade.key.RIGHT:
             self.poligon.scale(2,2)
 
+    def on_mouse_press(self, x, y, button, modifiers):
+        self.poligon.rotate_center(-30)
 
 if __name__ == '__main__':
     poly = Poligon([(140,200),(180,170),(120,400), (100,80)])
